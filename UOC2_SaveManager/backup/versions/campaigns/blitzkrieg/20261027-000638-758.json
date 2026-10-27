@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-27 00:06:38",
+  "event": "changed",
+  "rel": "campaigns/blitzkrieg.usg",
+  "source": "E:\\game\\tongyizhihui2\\UOC2_SaveManager\\save\\campaigns\\blitzkrieg.usg",
+  "size": 336436,
+  "sha256": "60a2f6039357cee77b109b03fe2c4d2a12ea913ba0099973c910b1bd6bccf53b",
+  "campaign_key": "id_campaign_name_c_blitzkrieg_p_dlc1",
+  "campaign_id": "blitzkrieg",
+  "level": "easy",
+  "prestige": "210",
+  "score": "244",
+  "scenario": "modlin",
+  "conference": "c_39_09",
+  "completed": false,
+  "turn": "1",
+  "turn_total": "8",
+  "battle": "modlin",
+  "error": null
+}

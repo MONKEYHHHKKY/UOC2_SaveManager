@@ -1,0 +1,15 @@
+{
+  "save_root": "save",
+  "legacy_save_root": "%LOCALAPPDATA%\\.uoc2\\save",
+  "game_dir": "",
+  "monitor_enabled": true,
+  "monitor_interval": 5,
+  "monitor_mode": "realtime",
+  "interval_minutes": 5,
+  "keep_versions_per_save": 30,
+  "skip_backup_files": true,
+  "backup_before_restore": true,
+  "last_tab": 2,
+  "last_campaign": "campaigns/blitzkrieg.usg",
+  "location_prompted": true
+}

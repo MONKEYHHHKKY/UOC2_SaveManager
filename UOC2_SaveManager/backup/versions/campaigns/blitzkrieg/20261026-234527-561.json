@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-26 23:45:27",
+  "event": "changed",
+  "rel": "campaigns/blitzkrieg.usg",
+  "source": "E:\\game\\tongyizhihui2\\UOC2_SaveManager\\save\\campaigns\\blitzkrieg.usg",
+  "size": 252724,
+  "sha256": "d505d4453a29d15315f85eaf0fdf2957139e2d4c69fb7a8b359148362644b0d8",
+  "campaign_key": "id_campaign_name_c_blitzkrieg_p_dlc1",
+  "campaign_id": "blitzkrieg",
+  "level": "easy",
+  "prestige": "0",
+  "score": "7",
+  "scenario": "danzig_corridor",
+  "conference": "c_39_09",
+  "completed": false,
+  "turn": "3",
+  "turn_total": "5",
+  "battle": "danzig_corridor",
+  "error": null
+}

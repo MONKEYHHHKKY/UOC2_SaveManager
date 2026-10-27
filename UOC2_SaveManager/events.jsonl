@@ -1,0 +1,38 @@
+{"at": "2026-10-26 19:47:53", "event": "baseline", "message": "campaigns/barbarossa.usg → 版本 20261026-194753-905.usg", "rel": "campaigns/barbarossa.usg"}
+{"at": "2026-10-26 19:47:53", "event": "baseline", "message": "campaigns/blitzkrieg.usg → 版本 20261026-194753-916.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 19:47:53", "event": "baseline", "message": "campaigns/don.usg → 版本 20261026-194753-924.usg", "rel": "campaigns/don.usg"}
+{"at": "2026-10-26 19:47:53", "event": "baseline", "message": "campaigns/kursk.usg → 版本 20261026-194753-932.usg", "rel": "campaigns/kursk.usg"}
+{"at": "2026-10-26 19:47:53", "event": "baseline", "message": "campaigns/tutorial.usg → 版本 20261026-194753-940.usg", "rel": "campaigns/tutorial.usg"}
+{"at": "2026-10-26 19:53:37", "event": "snapshot", "message": "快照 20261026-195337_首次全量快照，共 10 个文件"}
+{"at": "2026-10-26 22:18:40", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-221840-273.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 22:25:50", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-222550-695.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 22:26:00", "event": "trash", "message": "20261026-194753-905.usg → 回收站"}
+{"at": "2026-10-26 22:26:03", "event": "trash", "message": "20261026-194753-932.usg → 回收站"}
+{"at": "2026-10-26 23:17:09", "event": "baseline", "message": "campaigns/barbarossa.usg → 版本 20261026-231709-645.usg", "rel": "campaigns/barbarossa.usg"}
+{"at": "2026-10-26 23:17:09", "event": "baseline", "message": "campaigns/blitzkrieg.usg → 版本 20261026-231709-658.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:17:09", "event": "baseline", "message": "campaigns/kursk.usg → 版本 20261026-231709-693.usg", "rel": "campaigns/kursk.usg"}
+{"at": "2026-10-26 23:21:35", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-232135-119.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:21:45", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-232145-151.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:26:35", "event": "baseline", "message": "campaigns/blitzkrieg.usg → 版本 20261026-232635-086.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:37:41", "event": "changed", "message": "campaigns/barbarossa.usg → 版本 20261026-233741-551.usg", "rel": "campaigns/barbarossa.usg"}
+{"at": "2026-10-26 23:37:56", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-233756-615.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:39:01", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-233901-730.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:39:19", "event": "restore", "message": "回滚 campaigns/blitzkrieg.usg ← 20261026-232145-151.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:39:21", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-233921-779.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:40:21", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-234021-923.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:45:17", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-234517-536.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:45:27", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-234527-561.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:49:58", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-234958-101.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:54:48", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-235448-699.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:54:53", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-235453-729.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:58:19", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-235819-195.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-26 23:58:29", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261026-235829-237.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-27 00:00:09", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261027-000009-418.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-27 00:00:14", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261027-000014-449.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-27 00:00:24", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261027-000024-489.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-27 00:00:29", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261027-000029-528.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-27 00:05:56", "event": "trash", "message": "20261026-221840-273.usg → 回收站"}
+{"at": "2026-10-27 00:05:58", "event": "trash", "message": "20261026-194753-916.usg → 回收站"}
+{"at": "2026-10-27 00:06:38", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261027-000638-758.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-27 00:06:58", "event": "changed", "message": "campaigns/blitzkrieg.usg → 版本 20261027-000658-817.usg", "rel": "campaigns/blitzkrieg.usg"}
+{"at": "2026-10-27 16:17:25", "event": "snapshot", "message": "快照 20261027-161725_周末进度存档，共 10 个文件"}

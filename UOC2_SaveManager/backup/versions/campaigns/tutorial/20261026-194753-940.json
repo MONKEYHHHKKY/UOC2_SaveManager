@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-26 19:47:53",
+  "event": "baseline",
+  "rel": "campaigns/tutorial.usg",
+  "source": "C:\\Users\\29515\\AppData\\Local\\.uoc2\\save\\campaigns\\tutorial.usg",
+  "size": 52476,
+  "sha256": "2fca688b9c00ae9a70d50dcde9ba0663a559c2b671162476a4b1f0d51833a38b",
+  "campaign_key": "id_campaign_name_c_tutorial_p_base",
+  "campaign_id": "tutorial",
+  "level": "classic",
+  "prestige": "25",
+  "score": "-13",
+  "scenario": "tutorial_93",
+  "conference": "c_42_11",
+  "completed": false,
+  "error": null
+}

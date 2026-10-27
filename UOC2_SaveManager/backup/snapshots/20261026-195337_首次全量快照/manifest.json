@@ -1,0 +1,69 @@
+{
+  "created_at": "2026-10-26 19:53:37",
+  "label": "首次全量快照",
+  "note": "安装后建立的基线备份",
+  "kind": "manual",
+  "save_root": "C:\\Users\\29515\\AppData\\Local\\.uoc2\\save",
+  "files": [
+    {
+      "rel": "campaigns/blitzkrieg.usg",
+      "size": 194356,
+      "mtime": 1793014850.3506663,
+      "sha256": "ecc8b9c95d505f36ba8ab4d9992c16deec22261b955345e992f4e1d54a83928a"
+    },
+    {
+      "rel": "campaigns/blitzkrieg_BACKUP.usg",
+      "size": 194356,
+      "mtime": 1793014850.326408,
+      "sha256": "2f89721ea326848b5ad368bf266dd1d0413dc20a29ddb25c5be48f12c6877557"
+    },
+    {
+      "rel": "campaigns/barbarossa.usg",
+      "size": 231641,
+      "mtime": 1793014037.7673094,
+      "sha256": "d4ea4fa470e0b6c73389294895bb46e0236de39823e89172f7f48ead24be3c81"
+    },
+    {
+      "rel": "campaigns/barbarossa_BACKUP.usg",
+      "size": 231682,
+      "mtime": 1793014037.7386892,
+      "sha256": "99d4fdbe8ef57c30ee866ea16a73f11ef57aa967ca3e41865006439a3bef2b0e"
+    },
+    {
+      "rel": "campaigns/kursk.usg",
+      "size": 149827,
+      "mtime": 1792936679.4254346,
+      "sha256": "627e6a9318e61e7b773fd4c79412c6785e319c20ab9a0240b83756c32b28902d"
+    },
+    {
+      "rel": "campaigns/kursk_BACKUP.usg",
+      "size": 149827,
+      "mtime": 1792936679.4018562,
+      "sha256": "1df197dcc8f5795c60be86a57c169fc4914e168e61cc70be8822315e53d228c4"
+    },
+    {
+      "rel": "campaigns/don.usg",
+      "size": 121969,
+      "mtime": 1792936658.466608,
+      "sha256": "07ebb4b14a6bf715aa0448741360749accbf897fafe1098fc6d13478aaec92d9"
+    },
+    {
+      "rel": "campaigns/don_BACKUP.usg",
+      "size": 121779,
+      "mtime": 1792936658.380144,
+      "sha256": "548deb121df9d280d35b7248d1f61a2fbcc0220e101eb2c59d3ca0b56a884bce"
+    },
+    {
+      "rel": "campaigns/tutorial.usg",
+      "size": 52476,
+      "mtime": 1792933833.318337,
+      "sha256": "2fca688b9c00ae9a70d50dcde9ba0663a559c2b671162476a4b1f0d51833a38b"
+    },
+    {
+      "rel": "campaigns/tutorial_BACKUP.usg",
+      "size": 52476,
+      "mtime": 1792933833.3055797,
+      "sha256": "9aba2d79d73ac3689146752f89b0c2055aaff1eb0f775804ba94d2a17debd602"
+    }
+  ]
+}

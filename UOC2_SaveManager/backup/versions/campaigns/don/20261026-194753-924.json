@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-26 19:47:53",
+  "event": "baseline",
+  "rel": "campaigns/don.usg",
+  "source": "C:\\Users\\29515\\AppData\\Local\\.uoc2\\save\\campaigns\\don.usg",
+  "size": 121969,
+  "sha256": "07ebb4b14a6bf715aa0448741360749accbf897fafe1098fc6d13478aaec92d9",
+  "campaign_key": "id_campaign_name_c_don_p_dlc5",
+  "campaign_id": "don",
+  "level": "easy",
+  "prestige": "0",
+  "score": "4",
+  "scenario": "uranus",
+  "conference": "c_42_11",
+  "completed": false,
+  "error": null
+}

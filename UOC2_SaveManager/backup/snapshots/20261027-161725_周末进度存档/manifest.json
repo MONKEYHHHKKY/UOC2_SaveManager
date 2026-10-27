@@ -1,0 +1,69 @@
+{
+  "created_at": "2026-10-27 16:17:25",
+  "label": "周末进度存档",
+  "note": "闪电战第 7 回合，推演前的整体留档",
+  "kind": "manual",
+  "save_root": "E:\\game\\tongyizhihui2\\UOC2\\UOC2_SaveManager\\save",
+  "files": [
+    {
+      "rel": "campaigns/blitzkrieg.usg",
+      "size": 336436,
+      "mtime": 1793030814.1602743,
+      "sha256": "23bd96fcf0c2d8502fb3bdba96911108c54f4d9b5cc6a78ed0c37da42a45ed6d"
+    },
+    {
+      "rel": "campaigns/blitzkrieg_BACKUP.usg",
+      "size": 336436,
+      "mtime": 1793030814.1199408,
+      "sha256": "60a2f6039357cee77b109b03fe2c4d2a12ea913ba0099973c910b1bd6bccf53b"
+    },
+    {
+      "rel": "campaigns/barbarossa.usg",
+      "size": 231641,
+      "mtime": 1793029057.7221248,
+      "sha256": "5b465fc3f9761f29b7ac8f72085d1446bcaedb935184f48cefd6c6380af3b0cc"
+    },
+    {
+      "rel": "campaigns/barbarossa_BACKUP.usg",
+      "size": 231641,
+      "mtime": 1793029057.6938324,
+      "sha256": "d4ea4fa470e0b6c73389294895bb46e0236de39823e89172f7f48ead24be3c81"
+    },
+    {
+      "rel": "campaigns/kursk.usg",
+      "size": 149827,
+      "mtime": 1792936679.4254346,
+      "sha256": "627e6a9318e61e7b773fd4c79412c6785e319c20ab9a0240b83756c32b28902d"
+    },
+    {
+      "rel": "campaigns/kursk_BACKUP.usg",
+      "size": 149827,
+      "mtime": 1792936679.4018562,
+      "sha256": "1df197dcc8f5795c60be86a57c169fc4914e168e61cc70be8822315e53d228c4"
+    },
+    {
+      "rel": "campaigns/don.usg",
+      "size": 121969,
+      "mtime": 1792936658.466608,
+      "sha256": "07ebb4b14a6bf715aa0448741360749accbf897fafe1098fc6d13478aaec92d9"
+    },
+    {
+      "rel": "campaigns/don_BACKUP.usg",
+      "size": 121779,
+      "mtime": 1792936658.380144,
+      "sha256": "548deb121df9d280d35b7248d1f61a2fbcc0220e101eb2c59d3ca0b56a884bce"
+    },
+    {
+      "rel": "campaigns/tutorial.usg",
+      "size": 52476,
+      "mtime": 1792933833.318337,
+      "sha256": "2fca688b9c00ae9a70d50dcde9ba0663a559c2b671162476a4b1f0d51833a38b"
+    },
+    {
+      "rel": "campaigns/tutorial_BACKUP.usg",
+      "size": 52476,
+      "mtime": 1792933833.3055797,
+      "sha256": "9aba2d79d73ac3689146752f89b0c2055aaff1eb0f775804ba94d2a17debd602"
+    }
+  ]
+}

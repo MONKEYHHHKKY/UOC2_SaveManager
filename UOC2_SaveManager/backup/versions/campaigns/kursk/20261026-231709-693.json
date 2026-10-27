@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-26 23:17:09",
+  "event": "baseline",
+  "rel": "campaigns/kursk.usg",
+  "source": "E:\\game\\tongyizhihui2\\UOC2_SaveManager\\save\\campaigns\\kursk.usg",
+  "size": 149827,
+  "sha256": "627e6a9318e61e7b773fd4c79412c6785e319c20ab9a0240b83756c32b28902d",
+  "campaign_key": "id_campaign_name_c_kursk_p_dlc8",
+  "campaign_id": "kursk",
+  "level": "easy",
+  "prestige": "200",
+  "score": "0",
+  "scenario": null,
+  "conference": "c_01",
+  "completed": false,
+  "turn": null,
+  "turn_total": null,
+  "battle": null,
+  "error": null
+}

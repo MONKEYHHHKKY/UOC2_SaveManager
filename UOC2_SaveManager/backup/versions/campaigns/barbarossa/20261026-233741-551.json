@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-26 23:37:41",
+  "event": "changed",
+  "rel": "campaigns/barbarossa.usg",
+  "source": "E:\\game\\tongyizhihui2\\UOC2_SaveManager\\save\\campaigns\\barbarossa.usg",
+  "size": 231641,
+  "sha256": "5b465fc3f9761f29b7ac8f72085d1446bcaedb935184f48cefd6c6380af3b0cc",
+  "campaign_key": "id_campaign_name_c_barbarossa_p_dlc2",
+  "campaign_id": "barbarossa",
+  "level": "easy",
+  "prestige": "450",
+  "score": "0",
+  "scenario": null,
+  "conference": "c_41_06",
+  "completed": false,
+  "turn": null,
+  "turn_total": null,
+  "battle": null,
+  "error": null
+}
